@@ -1,4 +1,4 @@
-## Getting and Cleaning Data - Crouse Project
+## Getting and Cleaning Data - Course Project
 
 to run the analysis script, first set the working directory to where the samsung data is available
 your files should be readable like "test/subject_test.txt"
