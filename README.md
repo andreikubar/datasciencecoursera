@@ -19,9 +19,9 @@ summary data set will be available as variable: sum_data
 data was sourced from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 1. t
-```r
-lalala
-```
+   ```r
+   lalala
+   ```
 2. t2
 
   hhh
