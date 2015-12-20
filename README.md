@@ -20,6 +20,7 @@ data was sourced from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Reco
 
 1. t
 
+d
    ```r
    lalala
    ```
